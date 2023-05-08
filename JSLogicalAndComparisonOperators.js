@@ -23,19 +23,19 @@ x !== 11; // false
 x !== "11" // true
 x !== 7 // true
 
-// greater than
+// greater than (>)
 
 x > 7 // true
 
-// less than
+// less than (<)
 
 x < 7 // false
 
-// greater than or equal to
+// greater than or equal to (>=)
 
 x >= 7 // true
 
-// less than or equal to
+// less than or equal to (<=)
 
 x <= 7 // false
 
